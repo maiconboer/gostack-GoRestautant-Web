@@ -1,28 +1,36 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
+      "available": true,
+      "name": "Ao molhus",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Veggie",
+      "available": true,
+      "name": "Veggieee",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "id": 2
     },
     {
-      "id": 3,
+      "available": true,
       "name": "A la Camarón",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
+      "id": 3
+    },
+    {
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "name": "Roasted Vegetable",
+      "image": "https://www.31daily.com/wp-content/uploads/2019/08/thumb_Skillet-Roasted-Italian-Vegetable-Pasta.jpg",
+      "description": "rartes sada",
+      "price": "20",
+      "id": 4
     }
   ]
 }
